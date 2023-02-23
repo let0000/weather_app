@@ -5,7 +5,7 @@ React를 이용한 날씨 앱
 날씨 조회
 
 ## 화면 이미지
-<img width="80%" src="https://user-images.githubusercontent.com/21376061/220573937-31905569-72a2-4d43-aef9-411c036f7020.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/21376061/220892731-e14fe05f-fb78-4649-a027-538c1c454a03.png"/>
 
 ## 라이브러리
 axios
